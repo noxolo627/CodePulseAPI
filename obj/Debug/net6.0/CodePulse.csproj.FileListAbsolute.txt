@@ -1,0 +1,6 @@
+C:\Users\bbdnet2796\Documents\ASP-Angular\API\CodePulse\obj\Debug\net6.0\CodePulse.csproj.AssemblyReference.cache
+C:\Users\bbdnet2796\Documents\ASP-Angular\API\CodePulse\obj\Debug\net6.0\CodePulse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bbdnet2796\Documents\ASP-Angular\API\CodePulse\obj\Debug\net6.0\CodePulse.AssemblyInfoInputs.cache
+C:\Users\bbdnet2796\Documents\ASP-Angular\API\CodePulse\obj\Debug\net6.0\CodePulse.AssemblyInfo.cs
+C:\Users\bbdnet2796\Documents\ASP-Angular\API\CodePulse\obj\Debug\net6.0\CodePulse.csproj.CoreCompileInputs.cache
+C:\Users\bbdnet2796\Documents\ASP-Angular\API\CodePulse\obj\Debug\net6.0\CodePulse.MvcApplicationPartsAssemblyInfo.cache
